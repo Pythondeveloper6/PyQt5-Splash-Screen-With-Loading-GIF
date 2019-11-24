@@ -1,0 +1,1 @@
+# PyQt5-Splash-Screen-With-Loading-GIF
